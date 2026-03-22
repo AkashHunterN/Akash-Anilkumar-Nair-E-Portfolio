@@ -1,0 +1,110 @@
+{
+  "basics": {
+    "name": "AKASH ANILKUMAR NAIR",
+    "title": "Economics Postgraduate & PGDM Finance Candidate",
+    "summary": "Detail-oriented Economics postgraduate currently pursuing a PGDM in Finance, bringing a strong academic foundation in market dynamics, financial systems, and economic analysis. Adept at breaking down data into strategic insights and supporting decision-making in fast-paced environments. Actively pursuing opportunities in finance to contribute analytical discipline and a performance-driven mindset.",
+    "location": "Bengaluru / Mumbai, India",
+    "email": "akashanilnair@gmail.com",
+    "phone": "9930166010",
+    "links": {
+      "linkedin": "www.linkedin.com/in/akash-nair-6582b6235"
+    }
+  },
+  "experience": [
+    {
+      "company": "SIES College",
+      "role": "Editor, Caveat Venditor - Official Newsletter of the Department of Economics",
+      "dates": "2017 - 2020",
+      "location": "Mumbai",
+      "bullets": [
+        "Responsible for editing the Bi-Yearly Newsletter of the department of economics.",
+        "Have delivered 2 widely read issues."
+      ]
+    },
+    {
+      "company": "SIES College",
+      "role": "Technical Advisor for the Department of Economics",
+      "dates": "2017 - 2020",
+      "location": "Mumbai",
+      "bullets": [
+        "Responsible for organizing and handling 30+ events for the department."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "1st Position - Ground Zero",
+      "context": "Secured the First Position among 10 teams in the Intra College Competition - Ground Zero: Startup Business at the Grassroot (ISBR Business School)."
+    },
+    {
+      "title": "3rd Position - Startup Pitch",
+      "context": "Secured the Third position among 15 teams in the Intra College Startup Pitch Competition (ISBR Business School)."
+    },
+    {
+      "title": "30+ Events Organized",
+      "context": "Organized and handled 30+ events as Technical Advisor for the Department of Economics at SIES College."
+    },
+    {
+      "title": "2 Newsletter Issues",
+      "context": "Delivered 2 widely read issues as Editor of Caveat Venditor, the official newsletter of the Department of Economics."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Dissertation - An Empirical Study on Disaggregate Inflation in Maharashtra",
+      "stack": ["Econometric Modelling", "Statistical Tools", "Data Analysis"],
+      "bullets": [
+        "Used econometric modelling and other core skills to evaluate component-wise price behavior and inflation persistence.",
+        "Built a structured analytical framework using statistical tools to assess sectoral inflation volatility.",
+        "Contributed to evidence-based insights for state-level macroeconomic policy."
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "category": "Core Skills",
+      "items": ["Financial Analysis", "Information analysis", "Financial models", "Financial Reporting", "Financial Forecasting", "Budgeting & Forecasting", "Econometric Modelling", "KPI development and Performance analysis", "Cost Benefit Analysis"]
+    },
+    {
+      "category": "Technical Skills",
+      "items": ["Advanced Excel (Pivot Tables, Lookups, Macros)", "PowerPoint", "Financial Modelling tools", "Power BI", "Python", "SQL"]
+    },
+    {
+      "category": "Behavioral Skills",
+      "items": ["Fast Learner", "Problem Solving", "Good Communication Skills", "Leadership Roles", "Strategic Thinker", "Ability to work under pressure", "Attention to detail", "Inquisitive", "Highly motivated to self-improve"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "ISBR Business School, Bengaluru",
+      "degree": "Post Graduate Diploma in Management - PGDM in Finance",
+      "dates": "July 2025 – 2027",
+      "bullets": [
+        "Ongoing.",
+        "Secured the First Position among 10 teams in the Intra College Competition - Ground Zero: Startup Business at the Grassroot.",
+        "Secured the Third position among 15 teams in the Intra College Startup Pitch Competition."
+      ]
+    },
+    {
+      "institution": "Mumbai School of Economics and Public Policy, Mumbai",
+      "degree": "Master of Arts - MA in Economics",
+      "dates": "2020 – 2022",
+      "bullets": [
+        "Dissertation - An Empirical Study on Disaggregate Inflation in Maharashtra."
+      ]
+    },
+    {
+      "institution": "SIES College of Arts, Science and Commerce, Mumbai",
+      "degree": "Bachelor of Arts - BA in Economics",
+      "dates": "2017 – 2020",
+      "bullets": []
+    }
+  ],
+  "certifications": [
+    "Bloomberg Market Concepts (BMC) Certification issued August 2025",
+    "NISM 8 – Equity Derivatives – Ongoing"
+  ],
+  "awards": [],
+  "extra": []
+}
